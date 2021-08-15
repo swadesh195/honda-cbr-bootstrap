@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header-area {
+    color:#fff;
+    background-color: #264653;
+}
+.navbar-light .navbar-nav .nav-link, .nav-link {
+    color: #fff ;
+}
+.style-btn {
+    border: 0;
+    color: #fff;
+    background-color: #E76F51; 
+}
+.style-btn:hover {
+    color: #000;
+    border: none;
+    background-color: #fff;
+}
+.style-text {
+    color: #E76F51;
+}
+.feature-bikes img {
+    width: 100%;
+}
+.gray-scale {
+    filter: grayscale(100%);
+}
+.extra-style-btn {
+    color: #E76F51;
+    border: 2px solid #E76F51;
+}
+.extra-style-btn:hover {
+    color: #fff;
+    background-color: #E76F51;
+}
+footer {
+    background-color: #0B0D17;
+}
